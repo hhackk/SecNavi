@@ -1,6 +1,6 @@
 var FrontGuide = {
     "main": [{
-        "pageT1": "安全圈",
+        "pageT1": "安全圈xx",
         "pageC1": [{
             "pageT2": "安全资讯",
             "pageC2": [{
